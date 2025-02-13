@@ -39,6 +39,6 @@
 
 Tested on Brave Browser, this form is compatible with modern web browsers. Simply open the **index.html** file in Brave to view the page live.
 
-This is what it look like on my Browser 
+This is what it looks like on my Browser 
 ![Screenshot 2025-02-13 220053](https://github.com/user-attachments/assets/a0042803-56ac-473d-8a92-20da38a1d7a5)
 
