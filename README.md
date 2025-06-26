@@ -11,7 +11,8 @@
 - **User-Friendly Styling:**  
   The form uses a clean and modern design with ample spacing, clear labels, and consistent styling. Elements like the submit button change appearance on hover to indicate interactivity.
 
-
+- **Accessibility:**  
+  Labels are associated with their respective inputs, making the form more accessible to screen readers.
 
 ## Challenges Faced
 
